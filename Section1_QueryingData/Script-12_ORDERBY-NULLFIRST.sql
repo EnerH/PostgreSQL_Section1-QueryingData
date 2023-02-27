@@ -1,0 +1,3 @@
+SELECT num
+FROM sort_demo sd 
+ORDER BY num ASC NULLS FIRST;

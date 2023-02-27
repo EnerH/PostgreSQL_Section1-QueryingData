@@ -1,0 +1,1 @@
+CREATE TABLE sort_demo(num INT);
